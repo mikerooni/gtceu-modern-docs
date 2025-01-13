@@ -1,3 +1,4 @@
+# GregTech CEu Modern Documentation
 > [!WARNING]
 > This repository is **no longer being maintained.**
 > Our docs can now be found [here](https://gregtechceu.github.io/GregTech-Modern/).
